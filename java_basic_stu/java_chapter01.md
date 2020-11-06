@@ -22,7 +22,7 @@
     - Java EE
         - Java Enterprise Edition의 약자로, 웹, 분산 컴퍼넌트를 위한 개발도구와 API가 있으며 목적에 따라 WAS, Tomcat, WebLogic, Jeus 등을 필요로 한다.
     - Java ME
-        - Java Micro Edition의 약자로, 인베디드(으으..)와 모바일 장비 개발을 위한 API와 개발도구가 있다
+        - Java Micro Edition의 약자로, 임베디드(으으..)와 모바일 장비 개발을 위한 API와 개발도구가 있다
 - 자바 개발환경
     - JVM은 Java Virtual Machine의 약자로, 자바 프로그램을 실행시켜주는 놈이다.
     - JRE는 Java Runtime Environment의 약자로, JVM + 표준 클래스 라이브러리이다.
