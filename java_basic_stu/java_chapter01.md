@@ -727,4 +727,37 @@
             - 해시 알고리즘을 이용한 집합
             - 매우 빠름
             - 역시 순서 무시, 중복 불가
-            - 
+            - 해시 알고리즘을 사용
+- Map
+    - Map 컬렉션이란
+        - 키와 값을 쌍으로 저장하는 구조
+    - 특징
+        - Collection 인터페이스와 다른 저장방식 사용
+        - key는 값을 찾기 위한 역할
+        - 순서따위 없다
+        - key는 중복이 불가능하다
+    - 메소드
+        - V put
+            - 키와 값을 저장함
+            - 저장된 값 반환
+        - boolean containsKey
+            - 키가 있는지 확인
+        - boolean containsValue
+            - 컬렉션에 값이 있는지 확인
+        - V get
+            - 컬렉션 안에 키와 일치하는 값을 반환(contains key + 값 반환)
+        - Set<Map.Entity<K,V>> entrySet
+            - 모든 Entity 객체를 Set 컬렉션에 담아서 반환
+        - Set keySey
+            - 모든 키를 Set에 담아서 반환
+        - Collection values
+            - 모든 값을 Collection 컬렉션에 담아서 반환
+        - boolean isEmpty
+            - 어디에나 있는 비었는지 확인
+        - int size
+            - 키의 수 반환(값의 수랑 같겠지?)
+        - void clear
+            - 초기화ㅏ
+        - V remove
+            - 키와 일치하는 Map.Entry 삭제, 값 반환
+    - 컬렉션 루핑
