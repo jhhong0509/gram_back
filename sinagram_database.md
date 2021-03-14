@@ -1,5 +1,7 @@
 # 시나그램 데이터베이스 발표자료
 
+<a href = "https://dog-developers.tistory.com/20">설치 자료</a>
+
 ### 데이터베이스
 
 통합하여 관리되는 데이터의 집합체
@@ -61,3 +63,4 @@
 MySQL workbench는 mysql을 쉽게 사용하기 위해 만들어진 GUI DBMS이다.
 
 기본적으로 CLI 또한 사용할 수 있고, 쿼리의 재사용이 간편하며, GUI가 간편하다.
+
