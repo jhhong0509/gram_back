@@ -1,6 +1,8 @@
 # 시나그램 데이터베이스 발표자료
 
-<a href = "https://dog-developers.tistory.com/20">설치 자료</a>
+<a href = "https://dog-developers.tistory.com/20">MySQL 설치 자료</a>
+
+<a href="https://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221303732044&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1">MySQL workbench 설치 자료</a>
 
 ### 데이터베이스
 
@@ -17,6 +19,30 @@
 데이터베이스의 구성, 접근방법, 유지관리에 대한 모든 책임을 진다.
 
 > 프린세스 메이커
+
+### DB의 종류
+
+#### 계층형 데이터베이스
+
+오래전에 사용되었던 형태
+
+부모 - 자식 관계를 가짐
+
+#### 관계형 데이터베이스
+
+오랫동안, 많이 사용되고 있는 데이터베이스
+
+대표적인 MySQL, ORACLE 등이 이에 속한다.
+
+테이블로 구분되어 있으며, 각각의 데이터는 키를 통해 식별할 수 있다.
+
+#### NoSQL
+
+Not Only SQL의 약자
+
+한가지 DB를 말하는게 아니다.
+
+여러가지 종류의 DB들이 이에 속한다.
 
 ### SQL
 
